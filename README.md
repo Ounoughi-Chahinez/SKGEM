@@ -7,8 +7,8 @@ doi: https://doi.org/10.1007/978-3-030-75018-3_29
 #### Citaion
 
 
-
-[Another Cell](@inproceedings{ounoughi2021scalable,
+```
+@inproceedings{ounoughi2021scalable,
   title={A Scalable Knowledge Graph Embedding Model for Next Point-of-Interest Recommendation in Tallinn City},
   author={Ounoughi, Chahinez and Mouakher, Amira and Sherzad, Muhammad Ibraheem and Ben Yahia, Sadok},
   booktitle={International Conference on Research Challenges in Information Science},
@@ -16,5 +16,4 @@ doi: https://doi.org/10.1007/978-3-030-75018-3_29
   year={2021},
   organization={Springer}
 }
-
-)
+```
